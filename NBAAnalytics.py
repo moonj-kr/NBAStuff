@@ -68,5 +68,4 @@ def parse():
             PlayByPlayList.append(play)
 
 
-
 start()
