@@ -26,6 +26,8 @@ class Game:
     def __init__(self, gameID):
         self.gameID = gameID
 
+
+
 #######################################################################################################################
 """
 This will be the parser part of the program. We dont need to make it a class and can just throw all of our methods in
