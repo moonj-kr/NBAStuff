@@ -1,0 +1,4 @@
+1. parse all the players to bench or current
+2. store all the event codes
+3. go through the play by play, using the event code data, you would either add each player PLUS MINUS score
+        or change the player
